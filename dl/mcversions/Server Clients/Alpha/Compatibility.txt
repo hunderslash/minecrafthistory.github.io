@@ -1,0 +1,23 @@
+The following table describes which server versions are compatible with which client versions:
+0.2.8		a1.2.6, a1.2.5, a1.2.4_01
+0.2.7		a1.2.6, a1.2.5, a1.2.4_01
+0.2.6_02	a1.2.6, a1.2.5, a1.2.4_01
+0.2.5_02	a1.2.3_04, a1.2.3_02, a1.2.3_01, a1.2.3
+0.2.5_01	a1.2.3_04, a1.2.3_02, a1.2.3_01, a1.2.3
+0.2.5		a1.2.3_04, a1.2.3_02, a1.2.3_01, a1.2.3
+0.2.4		a1.2.2b, a1.2.2a
+0.2.3		a1.2.1_01, a1.2.0_02, a1.2.0_01
+0.2.2_01	a1.2.1_01, a1.2.0_02, a1.2.0_01
+0.2.1		a1.1.2_01*, a1.1.2*, a1.1.1b*, a1.1.0*
+0.2.0_01	a1.1.2_01, a1.1.2, a1.1.1b, a1.1.0
+0.1.4		a1.0.17_04, a1.0.17_02
+0.1.0		a1.0.15
+
+* These versions crash upon joining the server.
+
+The following client versions' compatible server versions have not been archived, so cannot be played on multiplayer:
+a1.0.16_01
+a1.0.16_02
+a1.0.16
+
+Clients earlier than a1.0.15 cannot join any servers, because the only server that existed during that time was the official one, so there is no way to even try to connect to another server without the use of modifications.
