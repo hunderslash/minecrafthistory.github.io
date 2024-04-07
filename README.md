@@ -1,2 +1,3 @@
-# minecrafthistory.github.io
+# minecrafthistory.com
+
 Website about Minecraft History
